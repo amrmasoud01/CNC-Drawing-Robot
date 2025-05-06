@@ -1,2 +1,2 @@
 # CNC-Drawing-Robot
-A university project exploring the intersection of computer graphics, robotics, and G-code automation to transform digital designs into physical drawings
+A low-cost, Arduino-powered drawing machine for converting vector graphics to physical artwork. Developed for university computer graphics studies with full documentation.
