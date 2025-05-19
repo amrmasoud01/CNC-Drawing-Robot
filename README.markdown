@@ -66,8 +66,6 @@ A DIY CNC plotter built with an Arduino Uno, CNC Shield v3.0, and 3D-printed par
 - **Longest Part**: ~9 hours (X/Y Supports)
 - **Shortest Part**: ~30 minutes (Penholder)
 
-### STL Files
-Find the STL files in the [`stl/`](stl/) directory. Ensure proper bed adhesion and support settings for complex parts.
 
 ## Mechanical Assembly
 ### X-Axis Construction
@@ -135,19 +133,10 @@ G0 Z5 ; Lift pen
 M5 ; End program
 ```
 
-## Contributing
-Contributions are welcome! Please:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
 
-Report issues or suggest improvements via the [Issues](https://github.com/yourusername/arduino-cnc-plotter/issues) tab.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Built with ❤️ by [Your Name](https://github.com/yourusername)
