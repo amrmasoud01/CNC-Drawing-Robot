@@ -2,7 +2,7 @@
 
 A DIY CNC plotter built with an Arduino Uno, CNC Shield v3.0, and 3D-printed parts. This project uses GRBL firmware to control stepper motors for X/Y motion and a servo for Z-axis pen lifting, enabling precise 2D plotting from G-code generated in Inkscape.
 
-![CNC Plotter](images/cnc_plotter.jpg) <!-- Replace with your actual image path -->
+![CNC Plotter](Images/DIY-CNC-Pen-Plotter-Circuit-Diagram.png) <!-- Replace with your actual image path -->
 
 ## Table of Contents
 - [Features](#features)
