@@ -4,7 +4,7 @@ A DIY CNC plotter built with an Arduino Uno, CNC Shield v3.0, and 3D-printed par
 
 ![CNC Plotter](Images/DIY-CNC-Pen-Plotter-Circuit-Diagram.png) 
 
-## Table of Contents
+## Table of Contents  
 - [Features](#features)
 - [Hardware](#hardware)
 - [Software](#software)
@@ -141,6 +141,7 @@ M5 ; End program
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Feel free to ask any questions about any topic
 
 ---
 
